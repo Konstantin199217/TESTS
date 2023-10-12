@@ -1,3 +1,5 @@
+package Sem1HW;
+
 import org.example.Task2;
 import org.junit.Test;
 

@@ -1,3 +1,5 @@
+package Sem1HW;
+
 import org.assertj.core.internal.bytebuddy.utility.dispatcher.JavaDispatcher;
 import org.example.HW2.Car;
 import org.example.HW2.Motorcycle;

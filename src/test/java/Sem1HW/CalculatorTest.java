@@ -1,3 +1,4 @@
+package Sem1HW;
 
 import org.example.Calculator;
 import org.junit.Test;
