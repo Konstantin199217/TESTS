@@ -1,6 +1,6 @@
 package Sem1HW;
 
-import org.example.Task2;
+import org.example.Hw.Task2;
 import org.junit.Test;
 
 import java.util.ArrayList;

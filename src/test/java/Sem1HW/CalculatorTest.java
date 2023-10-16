@@ -1,6 +1,6 @@
 package Sem1HW;
 
-import org.example.Calculator;
+import org.example.Hw.Calculator;
 import org.junit.Test;
 
 import static org.assertj.core.api.Assertions.*;

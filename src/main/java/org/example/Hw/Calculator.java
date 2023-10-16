@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Hw;
 
 public class Calculator {
     public static int calculation(int firstOperand, int secondOperand, char operator) {
